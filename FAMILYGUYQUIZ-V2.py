@@ -11,11 +11,11 @@ class QuizApp:
         self.master.title("Family Guy Quiz")
 
         self.questions = [
-            ("What is Peter's youngest son's name? ", "STEWIE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNV7ASFpNVLXGSjX_LLGqls4QgAcaItej80EeBtNFzQ&s","K:\PYTHON\Family Guy Quiz\MP3\PGLaugh.mp3", "Damn right", "FAIL"),
-            ("Who has a secret relationship with Mayor West? ", "MEG", "https://www.slashfilm.com/img/gallery/new-family-guy-tribute-to-adam-west/intro-import.jpg", "K:\PYTHON\Family Guy Quiz\MP3\AW.mp3", "Shhh it's a secret", "Really?"),
-            ("What street do the Griffin's live on? ", "SPOONER", "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/04/Family-Guy-the-Griffin-House.jpg", "K:\PYTHON\Family Guy Quiz\MP3\FGOpening.mp3", "You probably know the house number too stalker", "You SUCK!"),
-            ("What kind of pet does Quagmire have? ", "CAT", "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/Quagmire-in-Family-Guy.jpg", "K:\PYTHON\Family Guy Quiz\MP3\GGUN.mp3", "Of course he loves pussy", "Are you even trying?"),
-            ("Which one of Peter's friends lives across the street? ", "CLEVELAND", "https://static.wikia.nocookie.net/familyguyfanon/images/1/10/The_Brown_House_%28Family_Guy%29.png/revision/latest?cb=20180405024241", "K:\PYTHON\Family Guy Quiz\MP3\Giraffe.mp3", "Of course he does", "Have you ever watched the show?")
+            ("What is Peter's youngest son's name? ", "STEWIE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNV7ASFpNVLXGSjX_LLGqls4QgAcaItej80EeBtNFzQ&s","PGLaugh.mp3", "Damn right", "FAIL"),
+            ("Who has a secret relationship with Mayor West? ", "MEG", "https://www.slashfilm.com/img/gallery/new-family-guy-tribute-to-adam-west/intro-import.jpg", "AW.mp3", "Shhh it's a secret", "Really?"),
+            ("What street do the Griffin's live on? ", "SPOONER", "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/04/Family-Guy-the-Griffin-House.jpg", "FGOpening.mp3", "You probably know the house number too stalker", "You SUCK!"),
+            ("What kind of pet does Quagmire have? ", "CAT", "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/Quagmire-in-Family-Guy.jpg", "GGUN.mp3", "Of course he loves pussy", "Are you even trying?"),
+            ("Which one of Peter's friends lives across the street? ", "CLEVELAND", "https://static.wikia.nocookie.net/familyguyfanon/images/1/10/The_Brown_House_%28Family_Guy%29.png/revision/latest?cb=20180405024241", "Giraffe.mp3", "Of course he does", "Have you ever watched the show?")
         ]
         self.current_question_index = 0
 
