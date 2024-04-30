@@ -15,7 +15,7 @@ class QuizApp:
             ("Who has a secret relationship with Mayor West? ", "MEG", "https://www.slashfilm.com/img/gallery/new-family-guy-tribute-to-adam-west/intro-import.jpg", "MP3/AW.mp3", "Shhh it's a secret", "Really", "MP3/Meg.mp3", "MP3/Jam.mp3"),
             ("What street do the Griffin's live on? ", "SPOONER", "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/04/Family-Guy-the-Griffin-House.jpg", "MP3/FGOpening.mp3", "You probably know the house number too stalker", "You SUCK!", "MP3/RH.mp3", "MP3/WHAT.mp3"),
             ("What kind of pet does Quagmire have? ", "CAT", "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/Quagmire-in-Family-Guy.jpg", "MP3/GGUN.mp3", "Of course he loves pussy", "Are you even trying?", "MP3/Quag.mp3", "MP3/Quagcat.mp3"),
-            ("Which one of Peter's friends lives across the street? ", "CLEVELAND", "https://static.wikia.nocookie.net/familyguyfanon/images/1/10/The_Brown_House_%28Family_Guy%29.png/revision/latest?cb=20180405024241", "MP3/Giraffe.mp3", "Of course he does", "Have you ever watched the show?", "MP3/Bath.mp3", "MP3/CleveHouse.mp3")
+            ("Which one of Peter's friends lives across the street? ", "CLEVELAND", "https://static.wikia.nocookie.net/familyguyfanon/images/1/10/The_Brown_House_%28Family_Guy%29.png/revision/latest?cb=20180405024241", "MP3/Giraffe.mp3", "Of course he does, except when he had his own show", "Have you ever watched the show?", "MP3/Bath.mp3", "MP3/CleveHouse.mp3")
         ]
         self.current_question_index = 0
 
